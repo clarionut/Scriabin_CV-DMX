@@ -21,5 +21,5 @@ The hardware is based on an Arduino Pro Mini driving a MAX485 RS-485 transceiver
 The CV inputs have protection against out-of-range voltage inputs, but there is no isolation on the MAX485 (again like many of the commercial DMX shields).
 Consequently the synthesiser and the light units must be powered from the same electrical circuit to avoid potentially dangerous voltages entering the synth.
 
-The KiCad schematic and board layout use some custom symbols and footprints, so you will need to add my kicad_libraries (https://github.com/clarionut/kiCad_libraries)
+The KiCad schematic and board layout use some custom symbols and footprints, so you will need to add my kiCad_libraries (https://github.com/clarionut/kiCad_libraries)
 before using these files.
