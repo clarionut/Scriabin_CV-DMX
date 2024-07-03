@@ -30,7 +30,7 @@ long Red[2], Grn[2], Blu[2], H, S, V;
 uint16_t oldRed[2] = {9999};
 uint16_t oldGrn[2] = {9999};
 uint16_t oldBlu[2] = {9999};
-int scriabinClr[][3] = {
+uint8_t scriabinClr[][3] = {
   { 0xFF, 0x00, 0x00 }, // C
   { 0xA0, 0x00, 0xFF }, // C#/Db
   { 0xFF, 0x72, 0x00 }, // D
