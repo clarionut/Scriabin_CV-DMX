@@ -13,7 +13,7 @@ the HSL (hue, saturation, lightness) colourspace, where the fully saturated colo
 
 There is also a 'hidden' mode on each channel (hidden mainly because of lack of space on the panel!). With the mode switch in the centre-off position the corresponding
 channel will enter 'Scriabin mode' which converts the incoming Red/Hue CV into quantised light colours according to the scheme used by Scriabin in his ['Clavier à lumières'](https://en.wikipedia.org/wiki/Clavier_%C3%A0_lumi%C3%A8res).
-The colours are: C - red; C# - purple; D - yellow; D# - flesh; E - sky blue; F - deep red; F# - bright blue; G - orange; G# - lilac; A - green; A# - rose; B - blue.
+The colours are: C - red; C# - purple; D - yellow; D# - flesh; E - sky blue; F - deep red; F# - bright blue; G - orange; G# - lilac; A - green; A# - rose; B - blue (the colours make more sense if ordered by the circle of fifths - C - red; G - orange; D - yellow; A - green; E - sky blue; B - blue; F# - bright blue; C# - purple; G# - lilac; D# - flesh; A# - rose; F - deep red).
 In this mode the input CV range should be adjusted so that successive octaves give the same colour. The tracking isn't perfect but should be good over about 2 1/2 octaves.
 The Green/Saturation control has no effect in this mode but the Blue/Value control can be used to fade the light in and out, though the colours are increasingly inaccurate at
 low brightness.
