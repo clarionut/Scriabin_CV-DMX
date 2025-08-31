@@ -2,7 +2,7 @@
 
 A two channel CV-DMX converter based on an Arduino Pro Mini microcontroller.
 
-<img src="https://github.com/clarionut/Scriabin_CV-DMX/blob/main/Scriabin_CV-DMX.jpg" alt="image" width="50%" height="50%">
+<img src="https://github.com/clarionut/Scriabin_CV-DMX/blob/main/Scriabin_CV-DMX.jpg" alt="image" width="20%" height="20%">
 
 Named for the famously synaesthetic composer Scriabin, this module was designed to allow RGB LED PAR cans to be voltage controlled by an analogue modular synthesiser.
 Each of the two channels can be controlled in the RGB (red, green, blue) or HSV (hue, saturation, value) colourspace, giving three control inputs per channel.
